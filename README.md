@@ -10,6 +10,20 @@
 - **Pinia** - управление состоянием
 - **CSS** - базовые стили без внешних библиотек
 
+## Screenshots
+
+### Main Table View
+
+![User Table](./screenshots/table-view.png)
+
+### Add/Edit User Modal
+
+![User Form](./screenshots/add-user-modal.png)
+
+### Mobile View
+
+![Mobile View](./screenshots/mobile-view.png)
+
 ## 📋 Функциональность
 
 ### ✅ Реализованные возможности:
